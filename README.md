@@ -1,0 +1,2 @@
+# ExportRakutenPointHistory
+楽天ポイント履歴をCSVファイルとしてダウンロードする

@@ -1,4 +1,4 @@
-# ExportRakutenPointHistory
+# 楽天ポイント履歴をCSVダウンロード
 楽天ポイント履歴をCSVファイルとしてダウンロードするブックマークレットです。
 
 # 使い方
